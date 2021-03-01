@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Well done you girl! Chak de
 Use the left arrow to go back!
